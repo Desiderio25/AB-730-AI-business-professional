@@ -66,7 +66,7 @@ In this task, you'll explore how Copilot Chat can help you quickly identify key 
     What are the top three innovation trends in [your industry] for 2026 and how can they shape the agenda for a client summit?
     ```
 
-    > **Note**: Replace [your industry] with the industry of your choosing.
+   > **Note**: Replace [your industry] with the industry of your choosing.
 
 1. Select **Send (arrow icon)** on bottom right of the prompt box or select **Enter** on your keyboard. 
 
