@@ -125,7 +125,7 @@ You want to calculate the average revenue per unit sold for each row, without wr
     Calculate the average revenue per unit sold for each row using the Revenue and UnitsSold columns.
     ```
 
-1. Review the column. Copilot adds the formula for every row automatically since **Allow editing** is active. 
+1. Review the column. Copilot adds the formula for every row automatically since **Allow editing** is selected. 
 
 1. Select **Done** when finished.
 
